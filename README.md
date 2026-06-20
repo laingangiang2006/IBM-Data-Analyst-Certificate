@@ -5,6 +5,7 @@
 There are projects I have done for these courses:
 - Excel Basics for Data Analysis
 - Data Analysis with Python
+- Data Visualization with Python
 - IBM Data Analyst Capstone Project
 - Python Project for Data Science
 - Statistics for Data Science with Python
