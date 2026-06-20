@@ -10,3 +10,5 @@ These are projects I have done for:
 - Data Science Fundamentals with Python and SQL
 
 All these courses are 3 of the 9 courses that make up the IBM Data Analyst Professional Certificate by IBM on Coursera.
+
+➡️ See the Credential [here](https://www.coursera.org/account/accomplishments/specialization/HNBJAU60PM5F).
