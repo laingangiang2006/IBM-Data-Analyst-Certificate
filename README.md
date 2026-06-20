@@ -11,7 +11,7 @@ There are projects I have done for these courses:
 
 All these courses are within the IBM Data Analyst Professional Certificate, Data Science Fundamentals with Python and SQL Specialization, and Data Analysis and Visualization Foundations Specialization by IBM on Coursera.
 
-➡️ See the Credential:
+➡️ See my Credentials:
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HNBJAU60PM5F).
 - [Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/account/accomplishments/specialization/HI0GQ3FI8EEJ).
 - [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/6TB1HCX6QQ4B).
