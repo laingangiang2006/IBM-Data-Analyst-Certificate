@@ -4,6 +4,7 @@
 
 There are projects I have done for these courses:
 - [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm)
+- [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
 - [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
 - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
 - [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project)
