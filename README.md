@@ -2,12 +2,16 @@
 
 # IBM Data Analyst Professional Certificate
 
-These are projects I have done for:
+There are projects I have done for these courses:
+- Excel Basics for Data Analysis
+- Data Analysis with Python
+- IBM Data Analyst Capstone Project
+- Python Project for Data Science
+- Statistics for Data Science with Python
 
-- Data Science Fundamentals with Python and SQL Specialization
-- IBM Data Analyst Professional Certificate
-- Data Science Fundamentals with Python and SQL
+All these courses are within the IBM Data Analyst Professional Certificate, Data Science Fundamentals with Python and SQL Specialization, and Data Analysis and Visualization Foundations Specialization by IBM on Coursera.
 
-All these courses are 3 of the 9 courses that make up the IBM Data Analyst Professional Certificate by IBM on Coursera.
-
-➡️ See the Credential [here](https://www.coursera.org/account/accomplishments/specialization/HNBJAU60PM5F).
+➡️ See the Credential:
+- [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HNBJAU60PM5F).
+- [Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/account/accomplishments/specialization/HI0GQ3FI8EEJ).
+- [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/6TB1HCX6QQ4B).
