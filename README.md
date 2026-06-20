@@ -1,5 +1,4 @@
-<img width="6010" height="1870" alt="IBM_logo" src="https://github.com/user-attachments/assets/81bbf1a4-10b0-4ff0-a504-676b737aef61" />
-
+<img width="6010" height="1870" alt="Screenshot 2026-06-20 at 19 32 28" src="https://github.com/user-attachments/assets/e17bd607-992d-4337-96f7-843261651d0b" />
 
 # IBM Data Analyst Professional Certificate
 
