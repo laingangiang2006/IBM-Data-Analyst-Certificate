@@ -11,7 +11,7 @@ There are projects I have done for these courses:
 - [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science)
 - [Statistics for Data Science with Python](https://www.coursera.org/learn/statistics-for-data-science-python)
 
-All these courses are within the IBM Data Analyst Professional Certificate, Data Science Fundamentals with Python and SQL Specialization, and Data Analysis and Visualization Foundations Specialization by IBM on Coursera. Tools I learnt and practice throughout the courses: Excel, Python, Python libraries, SQL, MySQL, SQLite
+All these courses are within the IBM Data Analyst Professional Certificate, Data Science Fundamentals with Python and SQL Specialization, and Data Analysis and Visualization Foundations Specialization by IBM on Coursera. Tools and languages I learnt and practiced throughout the courses: Excel, Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Dash, SQL, MySQL, SQLite
 
 ➡️ See my Credentials:
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/HNBJAU60PM5F)
